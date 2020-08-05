@@ -1,10 +1,14 @@
 # stableunstable
 import java.util.ArrayList;
+
 import java.util.Collections;
+
 import java.util.Set;
+
 import java.util.TreeSet;
 
 public class StableUnstable {
+
 public 	static boolean  add(int num)
 	{
 	int a[]=new int[(num+"").length()]; 
